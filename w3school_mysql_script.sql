@@ -6,3 +6,7 @@ SELECT
     City,
     Country
 FROM w3schools.customers;
+
+SELECT DISTINCT
+    Country
+FROM w3schools.customers;
