@@ -68,3 +68,5 @@ WHERE City LIKE 's%';
 SELECT *
 FROM w3schools.customers
 WHERE City IN ('Paris', 'London');
+
+-- select all columns from the customers table where the city is not 'paris'
